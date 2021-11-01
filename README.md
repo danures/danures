@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dan Ures.
-- 👀 I’m interested in QA automation and software development.
+- 👀 I’m interested in manual and automation QA, and also software development.
 - 📫 You can reach me here -> linkedin.com/in/dan-ures-2b8b20162
 
 <!---
